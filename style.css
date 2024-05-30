@@ -154,9 +154,8 @@ body {
 
 #extraInfo{
     display: flex;
-    /* border: 1px solid red; */
     margin-top: .6rem;
-    /* margin-bottom: 1rem; */
+    margin-left: .6rem;
     width: 90%;
     align-items: center;
     justify-content: space-between;
@@ -164,5 +163,4 @@ body {
 
 #extraInfo span {
     font-size: .84rem;
-    margin-left: .5rem;
 }
